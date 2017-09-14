@@ -1,0 +1,1 @@
+# Sample widgets for CSS isolation in React based dashboard
